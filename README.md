@@ -1,4 +1,4 @@
-**Traffic Control Simulation using Fuzzy Logic**
+*Traffic Control Simulation using Fuzzy Logic*
 
 This project is a simulation of traffic control using fuzzy logic implemented in Python. The aim of this project is to model an intelligent traffic control system that dynamically adjusts traffic signals based on real-time traffic conditions. Fuzzy logic is employed to handle the uncertainty and imprecision inherent in traffic flow.
 
